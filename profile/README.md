@@ -4,3 +4,8 @@ We create / help servers focused on video games, giving support in their improve
 <div align="center">
         <a href="https://www.paypal.com/donate/?hosted_button_id=STKUZCNDTBD5N"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=itsmanueh&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
  </div>
+
+You can find all of our social media and more below:
+- [Discord](https://discord.gg/TSG7q8rpH6)
+- [Twitter](https://twitter.com/OSXStudio)
+- [Donations](https://www.paypal.com/donate/?hosted_button_id=STKUZCNDTBD5N)
